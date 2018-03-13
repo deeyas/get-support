@@ -51,10 +51,10 @@ The scripts use the cf command line interface to extract the following informati
 ## Can I escalate a support ticket?
 {: #escalation}
 
-With premium or standard support, if you have not received a timely response to a support ticket, or if you feel that a support ticket is not being addressed appropriately, you can escalate the support ticket.  
+With Premium or Advanced support, if you have not received a timely response to a support ticket, or if you feel that a support ticket is not being addressed appropriately, you can escalate the support ticket.  
 {:shortdesc}
 
-See [Types of support](/docs/get-support/getstarttssup.html#typesofsupport) for more information about premium and standard support.
+See [Types of support](/docs/get-support/getstarttssup.html#typesofsupport) for more information about Premium and Advanced support.
 
 Through the support ticket escalation process, IBM management reviews your concerns and works with you to improve the support experience.
 
